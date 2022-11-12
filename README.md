@@ -5,8 +5,9 @@
 
 - Developer @ [cupids.lol](https://cupids.lol)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
+<a href="https://cupids.lol/L7">cupids.lol</a>
 <a href="https://codepen.io/https://codepen.io/l7x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/l7x" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/l7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/l7" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/l7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/l7" height="30" width="40" /></a>
@@ -20,4 +21,3 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/codingwithl7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/codingwithl7" /></a><a href="https://ko-fi.com/ko-fi.com/codingwithl7"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/codingwithl7" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hexiousfr&show_icons=true&locale=en&layout=compact" alt="hexiousfr" /></p>
-                                ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=L7
