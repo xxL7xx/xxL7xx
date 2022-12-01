@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexiousfr&label=Profile%20views&color=0e75b6&style=brightgreen" alt="hexiousfr" /> </p>
 
- <img align="right" alt="Coding" width="400" src="[https://media.discordapp.net/attachments/1018918756602359931/1037201075184353341/1.gif?width=354&height=354](https://media.discordapp.net/attachments/1014378543871950939/1021974276473110618/36.gif?width=400&height=212)">
+ <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1014378543871950939/1021974276473110618/36.gif?width=400&height=212">
 
 
 <h3 align="left">Connect with me:</h3>
